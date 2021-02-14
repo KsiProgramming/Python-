@@ -3,7 +3,7 @@
 #
 # (C) 2020, LABANI SAID, Orsay, France
 # 
-# @: said.labani@ens.paris.sacaly.fr
+# @: labani.said@outlook.com
 # -----------------------------------------------------------
 
 class Alphabet:
